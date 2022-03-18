@@ -1,0 +1,6 @@
+- create:
+    - ~/.zsh-custom/themes
+- link:
+    $HOME/.zshrc: zsh/zshrc
+    $HOME/.ohmyzsh: zsh/ohmyzsh
+    $HOME/.zsh-custom/themes/powerlevel10k: zsh/themes/powerlevel10k
